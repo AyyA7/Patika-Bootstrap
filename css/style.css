@@ -1,0 +1,99 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120%;
+    text-align: center;
+    background-color: #FFF5E4;
+}
+
+nav {
+    padding: 20px 30px;
+    text-align: left;
+    background: #DB8C9C;
+    margin: auto 0 !important;
+}
+
+nav a {
+    padding-right: 20px;
+    margin: auto 0;
+}
+
+.game-store {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+a:hover {
+    color: #620126;
+    text-decoration: none;
+}
+
+.jumbotron {
+    background: #F4B5C2;
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #620126;
+    text-align: center;
+    font-weight: bold;
+}
+
+section {
+    margin-bottom:80px;
+}
+
+h2, h3 {
+    color: #620126;
+}
+
+h3 {
+    margin: 1.5rem;
+}
+
+p {
+    line-height: 2;
+}
+
+img {
+    width: 50%;
+}
+
+ul {
+    padding: 0;
+}
+
+a {
+    color: #620126;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hover-w:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+li {
+    list-style-position: inside;
+    margin: 30px auto;
+    color: #850E35;
+    font-weight: 550;
+}
+
+footer {
+    background-color: #DB8C9C;
+    padding: 50px 0;
+}
+
+.footer-link {
+    margin: 0 40px;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 1rem;
+    margin: 50px auto 0 auto;
+}
