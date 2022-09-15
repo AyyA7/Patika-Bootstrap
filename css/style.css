@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    font-size: 120%;
+    font-size: 1.2rem;
     text-align: center;
     background-color: #FFF5E4;
 }
@@ -47,6 +47,10 @@ section {
 
 h2, h3 {
     color: #620126;
+}
+
+h5 {
+    font-weight: bold;
 }
 
 h3 {
@@ -96,4 +100,18 @@ footer {
     color: #ffffff;
     font-size: 1rem;
     margin: 50px auto 0 auto;
+}
+
+main {
+    margin: 20px 0;
+    min-height: 100vw;
+    text-align: left;
+}
+
+.card-header {
+    background-color: #F4B5C2;
+}
+
+.card {
+    border: 0;
 }
