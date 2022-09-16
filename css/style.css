@@ -113,5 +113,15 @@ main {
 }
 
 .card {
-    border: 0;
+    border: 1px solid #F4B5C2;
+    margin-bottom: 1em;
+    
+}
+
+.games {
+    margin: 1em auto;
+}
+
+.card-link {
+    font-size: 1rem;
 }
